@@ -42,7 +42,7 @@ Zobacz działającą wersję online:
 Projekt działa od razu w przeglądarce — bez potrzeby instalacji
 Przykład użycia
 
-Formularz dodawania transakcji:
+## Formularz dodawania transakcji:
 
 <form id="transactionForm">
   <label for="name">Nazwa:</label>
@@ -59,7 +59,7 @@ Formularz dodawania transakcji:
     <option value="cinema">Kino</option>
   </select>
 
-Możliwości rozwoju
+## Możliwości rozwoju
 
 Dodanie edycji i usuwania transakcji.
 
@@ -71,7 +71,7 @@ Integracja z API do automatycznego pobierania kursów walut.
 
 Dodanie systemu logowania i rejestracji użytkowników.
 
- Co się nauczyłem
+## Co się nauczyłem
 
 Tworzenie aplikacji webowej z interaktywnym formularzem.
 
@@ -79,6 +79,6 @@ Praca z lokalnym przechowywaniem danych (np. localStorage).
 
 Stylizacja aplikacji z wykorzystaniem SCSS.
 
-Publikacja aplikacji na GitHub Pages.
+
 
 Autor: Joachim Esangbedo
